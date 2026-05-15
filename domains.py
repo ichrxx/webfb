@@ -69,7 +69,7 @@ _DEFAULT = {
     "domain_password": "chrx",
     "temp": [
         "1secmail.com", "harakirimail.com",
-        "cunt.abrdns.com", "yopmail.com",
+        "yopmail.com",
     ],
     "custom": [
         {"domain": "ygmail.cfd",    "imap_host": "mail.ygmail.cfd",    "imap_user": "admin@ygmail.cfd",    "imap_pass": "chrx"},
